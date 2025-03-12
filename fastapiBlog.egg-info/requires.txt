@@ -3,4 +3,3 @@ uvicorn
 sqlalchemy
 passlib
 bcrypt
-fastapi["standard"]
